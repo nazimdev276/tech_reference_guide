@@ -1,6 +1,7 @@
 # Tech Reference Guide
 
 this reference is for people who are just starting out there life in tech or need a reference after there done with the basic stuff and just need general reference for there language of choice
+this guide is mostly built by ai for my personal use it my be outdated or flatout wrong "you have been warned"
 
 ## Contents
 
@@ -15,5 +16,7 @@ this reference is for people who are just starting out there life in tech or nee
 -  social_engineering_guide.md
 -  html-css-complete-tutorial.md
 -  progit.pdf
+- 10-guided-projects-html-css-js.md
+- java-swing-guide.md
 
 ### Happy reading
